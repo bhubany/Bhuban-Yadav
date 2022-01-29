@@ -1,0 +1,27 @@
+.downloads_header{
+  width: 98%;
+  color: #1222B5;
+  background: #5F9EA0;
+  text-align: center;
+  border: 5px solid #EEB5B5;
+  border-bottom: none;
+  min-height: 60px;
+}
+.downloads_header h2{
+  padding-top: 10px;
+  text-decoration: underline;
+}
+.downloads_header h5{
+  color:#a94442;
+}
+.downloads_contents{
+background-color: #EEB5B5;
+border:solid #EEB5B5 5px;
+width: 98%;
+}
+.red{
+	color: red;
+}
+table{
+	color: #1222B5;
+}

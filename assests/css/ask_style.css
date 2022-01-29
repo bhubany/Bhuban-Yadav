@@ -1,0 +1,124 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#ask_form h1 {
+  text-align: center;
+}
+.discussion_header {
+  width: 98%;
+  /*margin: 50px auto 0px;*/
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: solid #EEB5B5 10px;
+  /*border-bottom: none;*/
+  border-radius: 0px 0px 0px 0px;
+  min-height: 70px;
+  /*padding: 20px;*/
+}
+.discussion_header h2{
+  text-decoration: underline;
+  color:#1222B5;
+}
+.discussion_header h5{
+  color:#a94442;
+}
+/*.discussion{
+  border:solid #EEB5B5 5px;
+  width: 98%;
+  background-color: #EEB5B5;
+  /*text-align: center;
+}*/
+#ask_form{
+  width: 98%;
+  padding-bottom: 10px;
+  /*margin: 0px auto 0px;*/
+  color: #1222B5;
+  background: skyblue;
+  text-align: center;
+  border: 5px solid #EEB5B5;
+  /*border-bottom: none;*/
+  border-radius: 0px 0px 0px 0px;
+  /*padding: 20px;*/
+}
+#ask_form input {
+  width: 50%;
+  height: 30px;
+  margin: 3px 1%;
+  font-size: 1.1em;
+  padding: 4px;
+  font-size: .9em;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+#ask_btn {
+  height: 35px;
+  width: 80%;
+  color: white;
+  background: #3B5998;
+  border: none;
+  border-radius: 10px;
+}
+#checkbox input{
+  height: 30px;
+  width: 10%;
+}
+.robot{
+  text-align: left;
+  margin: 10px auto;
+}
+a{
+  text-decoration: none;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color: #3c763d; 
+  background: #dff0d8; 
+  border: 1px solid #3c763d;
+  margin-bottom: 20px;
+}
+.red{
+  color: #FA0A2B;
+}
+.ask_goto{
+  width: 98%;
+  border:solid #EEB5B5 5px;
+  text-align: center;
+  padding-top: 10px;
+  text-decoration: none;
+  line-height: 20px;
+  background-color: #EEB5B5;
+  font-weight: bold;
+  font-family: Times New Roman;
+}
+.ask_goto>ul>li{
+  list-style: none;
+}
+.ask_goto>ul>li:hover{
+  background-color: grey;
+}
+.ask_goto>ul>li>a{
+  color: #1222B5;
+ text-decoration: none;
+ }
+ .goto_top:hover{
+  text-align: right;
+  color: #1222B5;
+  background-color: grey;
+}
+.share:hover{
+  background-color: grey;
+}

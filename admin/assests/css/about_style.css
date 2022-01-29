@@ -1,0 +1,23 @@
+.about_header{
+  width: 98%;
+  color: #1222B5;
+  background: #5F9EA0;
+  text-align: center;
+  border: 5px solid #EEB5B5;
+ min-height: 50px;	
+}
+.about_header>h3{
+	padding-top: 10px;
+  text-decoration: underline;
+}
+.about_points{
+	width: 98%;
+	border:solid #EEB5B5 5px;
+	background-color: #EEB5B5;
+	padding-left: 20px;
+	color: #1222B5;
+}
+.about_points>ul>li{
+	padding-left: 10px;
+	justify-content: all;
+}

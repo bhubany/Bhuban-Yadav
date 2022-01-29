@@ -1,0 +1,34 @@
+.contact_contents{
+	text-align: center;
+	border:solid #EEB5B5 5px;
+	width: 98%;
+	background-color: #EEB5B5;
+	min-height: 430px;
+	color: #1222B5;
+}
+.icon>p>a{
+	text-decoration: none;
+}
+.icon>p>label{
+	text-align: center;
+}
+.contact_header{
+	 border:solid #EEB5B5 5px;
+  width: 98%;
+  min-height: 70px;
+  padding-top: 10px;
+  /*margin: 0px auto 0px;*/
+  /*color: white;*/
+  background: #5F9EA0;
+  text-align: center;
+  /*border: 1px solid #B0C4DE;*/
+  /*border-bottom: none;*/
+  border-radius: 0px 0px 0px 0px;
+}
+.contact_header>h2{
+	padding-top: 10px;
+	text-decoration: underline;
+}
+.contact_header>h5{
+	color:#a94442;
+}

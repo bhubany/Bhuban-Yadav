@@ -1,0 +1,98 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.red{
+	color: red;
+}
+.index_header{
+	 width: 98%;
+  /*margin: 50px auto 0px;*/
+  color: #1222B5;
+  background: #5F9EA0;
+  text-align: center;
+  border: 5px solid #EEB5B5;
+  border-bottom: none;
+  height: 50px;
+}
+.index_header>h2{
+	padding-top: 10px;
+	text-decoration: underline;
+}
+.index_header>h4{
+	color: #a94442;
+}
+.contact_icons_index{
+	padding-top: 5px;
+	/*width: 98%;*/
+	text-align: center;
+	border:solid skyblue 5px;
+	background-color: #EEB5B5;
+}
+.contact_icons_index>i>a>img{
+	height: 30px;
+	width: auto;
+}
+.engineering_banner{
+	border:solid #EEB5B5 5px;
+	background-color: #EEB5B5;
+}
+.engineering_banner>p>img{
+	height: 250px;
+	width: auto;
+	/*text-align: center;*/
+}
+.engineering_banner>p{
+	text-align: center;
+}
+.astrik{
+  color: red;
+}
+#inquiry_form h1 {
+  text-align: center;
+}
+.inquiry_header>h5 {
+  color: 
+}
+.inquiry_header {
+  width: 98%;
+  /*margin: 50px auto 0px;*/
+  color: #1222B5;
+  background: #5F9EA0;
+  text-align: center;
+  border: 5px solid #EEB5B5;
+  /*border-bottom: none;*/
+  /*border-radius: 10px 10px 0px 0px;*/
+  height: 100px;
+}
+#inquiry_form {
+  width: 98%;
+  /*margin: 0px auto 0px;*/
+  color: #1222B5;
+  background: #EEB5B5;
+  text-align: center;
+  border: 5px solid #EEB5B5;
+  /*border-bottom: none;*/
+  /*border-radius: 0px 0px 10px 10px;*/
+  /*padding: 20px;*/
+  }
+  #inquiry_form input {
+  width: 30%;
+  height: 30px;
+  margin: 3px 1%;
+  font-size: 1.1em;
+  padding: 4px;
+  font-size: .9em;
+}
+#inquiry_btn {
+  height: 35px;
+  width: 80%;
+  /*margin: 5px 10%;*/
+  color: white;
+  background: #3B5998;
+  border: none;
+  border-radius: 10px;
+}
+a{
+  text-decoration: none;
+}

@@ -1,0 +1,238 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.myHeader{
+	border: solid #d9edf7 2px;
+	background-color: #095EA7;
+}
+.myTitle{
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+.logo-title{
+	font-weight: bold;
+	font-size: 30px;
+}
+.logo-subtitle{
+	text-align: center;
+	font-size: 10px;
+	color: white;
+}
+/*------------FOR NAV---------------------*/
+.nav-content{
+	border: solid #d9edf7 2px;
+	background-color: #1b5693;
+}
+
+/*-------------FOR FOOTER------------------*/
+
+.footer-content{
+	text-align: center;
+	color: white;
+}
+
+
+/*------------FOR BODY SECTION-------------*/
+.myContainer{
+	border: solid #d9edf7 2px;
+}
+.myForm{
+	border: solid 1px #f2f2f5;
+	background-color: #f2f2f2;
+	padding: 10px;
+	margin: 0px auto;
+}
+.myFormTitle{
+	text-align: center;
+}
+.myLoginBtn{
+	border-color: #008DBC;
+	background-color: #f2f2f2;
+	color: black;
+	width: 150px;
+}
+.myLoginBtn>a{
+	text-decoration: none;
+}
+.myLoginBtn:hover{
+	background-color: #09C1FF;
+	color: white;
+}
+
+/*-------------Answer has been submitted-----------*/
+.myReturnToHome{
+	text-align: center;
+}
+
+
+/*-------------------EXAM_RULES-------------------*/
+.fontstyle1{
+	
+	font-weight: bold;
+	font-color:white;
+}
+.welcome-content{
+	background-color:#337ab7;
+	color: white;
+	border-radius: 10px;
+
+
+}
+.examstyle
+{
+	color:green;
+}
+.examstyle2
+{
+	color:green;
+}
+.myRules{
+	border: solid 1px #f2f2f5;
+	background-color: #f2f2f2;
+}
+  
+
+  /*-----------------------EXAM---------------*/
+  .nav-exam-content{
+  	background-color: #f2f2f5;
+  	border:solid #f2f2f5 2px;
+  }
+  .nav-exam-condition{
+   	background-color: #f2f2f5;
+  	border:solid #f2f2f5 2px;	
+  }
+.pull-myCentre{
+	text-align: center;
+	padding-left: 100px;
+}
+.myFixed{
+	position: fixed;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #a94442; 
+  color: #a94442; 
+  background: #f2dede; 
+  border-radius: 5px; 
+  text-align: center;
+}
+.mySuccess {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 1px solid #3c763d; 
+  color: #3c763d; 
+  background: #dff0d8; 
+  border-radius: 5px; 
+  text-align: center;
+}
+
+
+/*..............*/
+.fontstyle1{
+	
+	font-weight: bold;
+	font-color:white;
+}
+.examstyle
+{
+	color:green;
+}
+.examstyle2
+{
+	color:green;
+}
+.nav-content{
+	background:#095EA7;
+	border: solid #d9edf7 2px;
+	border-radius: 10px;
+
+}
+
+/*------------admin profile>>user profile>>table contents-----------*/
+.table-design{
+	
+	background-color: #f5f5f5;
+    border-color: #ddd; 
+    /*table-layout: auto|fixed|initial|inherit;*/
+
+}
+
+
+/*--------------FOr Objective Questions------------------*/
+.myObjQuestions{
+	border: solid #f2f2f5 2px;
+	background-color: white;
+}
+
+/*------------Company_profile Edit company details-----------*/
+
+.myRowBorder{
+	border: solid #f2f2f5 2px;
+	background-color: white;
+}
+
+.mySubRowBorder{
+	border: solid #095EA7 2px;
+	background-color: white;
+}
+.myDiscussionBorder{
+	border: solid #1222B5 2px;
+	border-radius: 10px;
+}
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.connected{
+	text-align: center;
+}
+.connected>ul{
+	list-style: none;
+	/*border:solid #EEB5B5 5px;*/
+	/*background-color: #EEB5B5;*/
+}
+.connected>ul>li{
+	display: inline-block;
+	padding: 5px;
+}
+.connected>ul>li>a>img{
+	height: 35px;
+	width: auto;
+}
+
+a{
+	text-decoration: none;
+}
+.movingImg{
+	height: 500px;
+	width: auto;
+}
+.courseImg{
+	height: 500px;
+	width: 600px;
+}
+
+/*-------------Pager----*/
+.myPagerBtn{
+	border-color: #008DBC;
+	background-color: #f2f2f2;
+	color: black;
+	width: 60px;
+}
+.myPagerBtn>a{
+	text-decoration: none;
+}
+.myPagerBtn:hover{
+	background-color: #09C1FF;
+	color: white;
+}

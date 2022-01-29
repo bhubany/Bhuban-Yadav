@@ -1,0 +1,37 @@
+.discussion_header {
+  width: 98%;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border: solid #EEB5B5 10px;
+  min-height: 70px;
+}
+
+.subject_name{
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: center;
+	color: #1222B5;
+	background-color: white;
+	border:solid #EEB5B5 5px;
+	border-radius: 7px;
+	width: 98%;
+	padding-bottom: 5px;
+}
+.subject_questions{
+	border:solid red 3px;
+	width: 98%;
+	background-color: #EEB5B5;
+	border-radius: 15px;
+}
+.profile_img>img{
+	height: 80px;
+	width: auto;
+	border-radius: 60px;
+}
+.view_all_qsn>h3{
+	text-align: center;
+}
+.view_all_qsn>h3>a:hover{
+	background-color: grey;
+}

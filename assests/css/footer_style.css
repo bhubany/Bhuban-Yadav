@@ -1,0 +1,17 @@
+.footer{
+	border:solid #EEB5B5 10px;
+	text-align: center;
+	background-color: white;
+	color: #1222B5;
+	font-size: 15px;
+	width: 98%;
+}
+.red{
+	color: #FA0A2B;
+}
+.hr{
+	border-width: 1px;
+	border-color: #090101;
+	border-style: solid;
+ 	width: 98%;
+ }
